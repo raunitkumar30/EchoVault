@@ -1,0 +1,4 @@
+_id,username,email,password,__v
+6ad47f99530aa7550ed2f28d,test1_user,test1@123,test1,0
+6ad47fb1530aa7550ed2f28f,test2_user,test2@123,test2,0
+6ad495393b4868ec41a69876,test3_user,test3@123,test3,0
